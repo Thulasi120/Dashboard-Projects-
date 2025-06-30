@@ -1,8 +1,5 @@
-/powerbi/
-  ‪D:\Dashboard Files\TulasiData.pbix
-  C:\Users\thula\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 215708.png
-/excel/‪D:\Dashboard Files\HRData.csv
-   C:\Users\thula\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 215708.png
-   C:\Users\thula\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 215832.png
-   C:\Users\thula\OneDrive\Pictures\Screenshots\Screenshot 2025-05-29 215852.png
-README.md
+## 📂 Files Included
+
+- `HRData.csv` – HR dataset used for dashboard  
+- 📹 Dashboard video – [Watch Power BI Dashboard Demo](https://drive.google.com/file/d/1E69HEK0NnTFIr9s-GdPYIH5R4G9rS6_y/view?usp=drive_link)
+  
